@@ -1,0 +1,319 @@
+skill,experience_level,count,percentage,category
+Machine Learning,Junior,44,17.39,DS/ML Concepts
+LLM,Junior,8,3.16,DS/ML Concepts
+Linux,Junior,7,2.77,DevOps & MLOps
+NLP,Junior,5,1.98,DS/ML Concepts
+Python,Junior,5,1.98,Programming Languages
+Generative AI,Junior,4,1.58,DS/ML Concepts
+Cybersecurity,Junior,4,1.58,Security
+Agile,Junior,4,1.58,Methodologies
+Natural Language Processing,Junior,3,1.19,DS/ML Concepts
+GCP,Junior,3,1.19,Cloud Platforms
+Google Cloud,Junior,3,1.19,Cloud Platforms
+Large Language Models,Junior,3,1.19,DS/ML Concepts
+Computer Vision,Junior,2,0.79,DS/ML Concepts
+Java,Junior,2,0.79,Programming Languages
+Prompt Engineering,Junior,2,0.79,DS/ML Concepts
+Data Modeling,Junior,2,0.79,Data Engineering
+RAG,Junior,2,0.79,DS/ML Concepts
+CI/CD,Junior,2,0.79,DevOps & MLOps
+Classification,Junior,2,0.79,DS/ML Concepts
+Statistical Analysis,Junior,2,0.79,DS/ML Concepts
+Deep Learning,Junior,1,0.4,DS/ML Concepts
+JavaScript,Junior,1,0.4,Programming Languages
+TensorFlow,Junior,1,0.4,ML/DL Frameworks
+Excel,Junior,1,0.4,Misc Tools
+Salesforce,Junior,1,0.4,Misc Tools
+Dagster,Junior,1,0.4,Data Engineering
+PostgreSQL,Junior,1,0.4,Databases
+JAX,Junior,1,0.4,ML/DL Frameworks
+PyTorch,Junior,1,0.4,ML/DL Frameworks
+iOS,Junior,1,0.4,Mobile
+Avro,Junior,1,0.4,Data Formats
+Data Pipeline,Junior,1,0.4,Data Engineering
+Grafana,Junior,1,0.4,Visualization & BI
+JSON,Junior,1,0.4,Data Formats
+Kafka,Junior,1,0.4,Data Engineering
+Prometheus,Junior,1,0.4,DevOps & MLOps
+Protobuf,Junior,1,0.4,Data Formats
+Scrum,Junior,1,0.4,Methodologies
+React,Junior,1,0.4,Web & API
+R,Junior,1,0.4,Programming Languages
+SAS,Junior,1,0.4,Programming Languages
+Machine Learning,Lead,116,19.05,DS/ML Concepts
+LLM,Lead,51,8.37,DS/ML Concepts
+Generative AI,Lead,38,6.24,DS/ML Concepts
+Python,Lead,23,3.78,Programming Languages
+iOS,Lead,17,2.79,Mobile
+Android,Lead,16,2.63,Mobile
+NLP,Lead,15,2.46,DS/ML Concepts
+Computer Vision,Lead,14,2.3,DS/ML Concepts
+Agile,Lead,13,2.13,Methodologies
+AWS,Lead,11,1.81,Cloud Platforms
+Large Language Models,Lead,10,1.64,DS/ML Concepts
+Azure,Lead,10,1.64,Cloud Platforms
+Deep Learning,Lead,9,1.48,DS/ML Concepts
+Data Pipeline,Lead,9,1.48,Data Engineering
+RAG,Lead,8,1.31,DS/ML Concepts
+Classification,Lead,7,1.15,DS/ML Concepts
+Prompt Engineering,Lead,6,0.99,DS/ML Concepts
+Node.js,Lead,6,0.99,Web & API
+React,Lead,5,0.82,Web & API
+Cybersecurity,Lead,5,0.82,Security
+Natural Language Processing,Lead,5,0.82,DS/ML Concepts
+TypeScript,Lead,5,0.82,Programming Languages
+Snowflake,Lead,4,0.66,Data Engineering
+Reinforcement Learning,Lead,4,0.66,DS/ML Concepts
+CI/CD,Lead,3,0.49,DevOps & MLOps
+C++,Lead,3,0.49,Programming Languages
+GCP,Lead,3,0.49,Cloud Platforms
+Express.js,Lead,3,0.49,Web & API
+JavaScript,Lead,3,0.49,Programming Languages
+MongoDB,Lead,3,0.49,Databases
+Kubernetes,Lead,3,0.49,DevOps & MLOps
+Databricks,Lead,3,0.49,Data Engineering
+Oracle DB,Lead,2,0.33,Databases
+Recommendation Systems,Lead,2,0.33,DS/ML Concepts
+Google Cloud,Lead,2,0.33,Cloud Platforms
+Regression,Lead,2,0.33,DS/ML Concepts
+SAP,Lead,2,0.33,Misc Tools
+Docker,Lead,2,0.33,DevOps & MLOps
+GitHub,Lead,2,0.33,DevOps & MLOps
+FastAPI,Lead,2,0.33,Web & API
+Grafana,Lead,2,0.33,Visualization & BI
+Java,Lead,2,0.33,Programming Languages
+Kotlin,Lead,2,0.33,Programming Languages
+Unit Testing,Lead,1,0.16,Testing
+Jira,Lead,1,0.16,Methodologies
+Slack API,Lead,1,0.16,Misc Tools
+REST API,Lead,1,0.16,Web & API
+ArgoCD,Lead,1,0.16,DevOps & MLOps
+GitLab,Lead,1,0.16,DevOps & MLOps
+PyTorch,Lead,1,0.16,ML/DL Frameworks
+TensorFlow,Lead,1,0.16,ML/DL Frameworks
+C#,Lead,1,0.16,Programming Languages
+Data Modeling,Lead,1,0.16,Data Engineering
+Linux,Lead,1,0.16,DevOps & MLOps
+Shell Scripting,Lead,1,0.16,Programming Languages
+Machine Learning,Management,21,11.86,DS/ML Concepts
+LLM,Management,4,2.26,DS/ML Concepts
+Express.js,Management,4,2.26,Web & API
+Apache Spark,Management,2,1.13,Data Engineering
+Large Language Models,Management,2,1.13,DS/ML Concepts
+AWS,Management,2,1.13,Cloud Platforms
+ETL,Management,2,1.13,Data Engineering
+Python,Management,2,1.13,Programming Languages
+Time Series,Management,2,1.13,DS/ML Concepts
+Azure,Management,2,1.13,Cloud Platforms
+Agile,Management,2,1.13,Methodologies
+SAP,Management,2,1.13,Misc Tools
+Classification,Management,2,1.13,DS/ML Concepts
+Prompt Engineering,Management,1,0.56,DS/ML Concepts
+Excel,Management,1,0.56,Misc Tools
+NLP,Management,1,0.56,DS/ML Concepts
+EMR,Management,1,0.56,Cloud Platforms
+MLflow,Management,1,0.56,ML/DL Frameworks
+SageMaker,Management,1,0.56,Cloud Platforms
+GCP,Management,1,0.56,Cloud Platforms
+Generative AI,Management,1,0.56,DS/ML Concepts
+RAG,Management,1,0.56,DS/ML Concepts
+Machine Learning,Mid-level,562,17.22,DS/ML Concepts
+Generative AI,Mid-level,275,8.43,DS/ML Concepts
+LLM,Mid-level,252,7.72,DS/ML Concepts
+Python,Mid-level,158,4.84,Programming Languages
+Large Language Models,Mid-level,127,3.89,DS/ML Concepts
+Prompt Engineering,Mid-level,111,3.4,DS/ML Concepts
+Excel,Mid-level,106,3.25,Misc Tools
+Computer Vision,Mid-level,103,3.16,DS/ML Concepts
+Azure,Mid-level,93,2.85,Cloud Platforms
+NLP,Mid-level,85,2.6,DS/ML Concepts
+Data Pipeline,Mid-level,65,1.99,Data Engineering
+SQL,Mid-level,64,1.96,Programming Languages
+Recommendation Systems,Mid-level,54,1.65,DS/ML Concepts
+Oracle DB,Mid-level,51,1.56,Databases
+Natural Language Processing,Mid-level,50,1.53,DS/ML Concepts
+Deep Learning,Mid-level,50,1.53,DS/ML Concepts
+CSS,Mid-level,47,1.44,Web & API
+RAG,Mid-level,46,1.41,DS/ML Concepts
+AWS,Mid-level,36,1.1,Cloud Platforms
+Agile,Mid-level,33,1.01,Methodologies
+Classification,Mid-level,28,0.86,DS/ML Concepts
+Databricks,Mid-level,23,0.7,Data Engineering
+CI/CD,Mid-level,23,0.7,DevOps & MLOps
+GCP,Mid-level,20,0.61,Cloud Platforms
+Cybersecurity,Mid-level,18,0.55,Security
+PyTorch,Mid-level,15,0.46,ML/DL Frameworks
+Node.js,Mid-level,15,0.46,Web & API
+Model Deployment,Mid-level,14,0.43,DS/ML Concepts
+Java,Mid-level,14,0.43,Programming Languages
+Apache Spark,Mid-level,11,0.34,Data Engineering
+Git,Mid-level,11,0.34,DevOps & MLOps
+React,Mid-level,11,0.34,Web & API
+Android,Mid-level,11,0.34,Mobile
+iOS,Mid-level,11,0.34,Mobile
+Docker,Mid-level,10,0.31,DevOps & MLOps
+Google Cloud,Mid-level,10,0.31,Cloud Platforms
+Reinforcement Learning,Mid-level,9,0.28,DS/ML Concepts
+Power BI,Mid-level,9,0.28,Visualization & BI
+Statistical Analysis,Mid-level,9,0.28,DS/ML Concepts
+JavaScript,Mid-level,9,0.28,Programming Languages
+Salesforce,Mid-level,9,0.28,Misc Tools
+Data Modeling,Mid-level,8,0.25,Data Engineering
+ETL,Mid-level,8,0.25,Data Engineering
+GitHub,Mid-level,8,0.25,DevOps & MLOps
+TensorFlow,Mid-level,8,0.25,ML/DL Frameworks
+R,Mid-level,8,0.25,Programming Languages
+Feature Engineering,Mid-level,7,0.21,DS/ML Concepts
+MongoDB,Mid-level,7,0.21,Databases
+Snowflake,Mid-level,6,0.18,Data Engineering
+Express.js,Mid-level,6,0.18,Web & API
+Hugging Face,Mid-level,6,0.18,ML/DL Frameworks
+Tableau,Mid-level,6,0.18,Visualization & BI
+Data Warehousing,Mid-level,6,0.18,Data Engineering
+PostgreSQL,Mid-level,6,0.18,Databases
+MLflow,Mid-level,5,0.15,ML/DL Frameworks
+Vue.js,Mid-level,5,0.15,Web & API
+Neural Networks,Mid-level,5,0.15,DS/ML Concepts
+C#,Mid-level,5,0.15,Programming Languages
+Regression,Mid-level,4,0.12,DS/ML Concepts
+GitLab,Mid-level,4,0.12,DevOps & MLOps
+Kubernetes,Mid-level,4,0.12,DevOps & MLOps
+NumPy,Mid-level,4,0.12,Data Engineering
+Pandas,Mid-level,4,0.12,Data Engineering
+SageMaker,Mid-level,4,0.12,Cloud Platforms
+scikit-learn,Mid-level,4,0.12,ML/DL Frameworks
+Scala,Mid-level,4,0.12,Programming Languages
+SAP,Mid-level,4,0.12,Misc Tools
+Hadoop,Mid-level,3,0.09,Data Engineering
+Scrum,Mid-level,3,0.09,Methodologies
+Slack API,Mid-level,3,0.09,Misc Tools
+FastAPI,Mid-level,3,0.09,Web & API
+MATLAB,Mid-level,3,0.09,Programming Languages
+TypeScript,Mid-level,3,0.09,Programming Languages
+Jenkins,Mid-level,3,0.09,DevOps & MLOps
+MySQL,Mid-level,3,0.09,Databases
+Angular,Mid-level,3,0.09,Web & API
+Data Lake,Mid-level,3,0.09,Big Data
+C++,Mid-level,3,0.09,Programming Languages
+A/B Testing,Mid-level,2,0.06,DS/ML Concepts
+S3,Mid-level,2,0.06,Cloud Platforms
+Shell Scripting,Mid-level,2,0.06,Programming Languages
+Amazon Web Services,Mid-level,2,0.06,Cloud Platforms
+Ansible,Mid-level,2,0.06,DevOps & MLOps
+XGBoost,Mid-level,2,0.06,ML/DL Frameworks
+Delta Lake,Mid-level,2,0.06,Big Data
+Redis,Mid-level,2,0.06,Databases
+Jupyter,Mid-level,2,0.06,Misc Tools
+Notebooks,Mid-level,2,0.06,Misc Tools
+Kubeflow,Mid-level,2,0.06,ML/DL Frameworks
+Linux,Mid-level,2,0.06,DevOps & MLOps
+Kotlin,Mid-level,2,0.06,Programming Languages
+PHP,Mid-level,2,0.06,Programming Languages
+Terraform,Mid-level,2,0.06,Cloud Platforms
+SQL Server,Mid-level,2,0.06,Databases
+Spring Boot,Mid-level,2,0.06,Web & API
+JSON,Mid-level,2,0.06,Data Formats
+XML,Mid-level,2,0.06,Data Formats
+PySpark,Mid-level,1,0.03,Data Engineering
+Flask,Mid-level,1,0.03,Web & API
+Apache Flink,Mid-level,1,0.03,Data Engineering
+Kafka,Mid-level,1,0.03,Data Engineering
+BigQuery,Mid-level,1,0.03,Cloud Platforms
+REST API,Mid-level,1,0.03,Web & API
+Airflow,Mid-level,1,0.03,Data Engineering
+Elasticsearch,Mid-level,1,0.03,Databases
+dbt,Mid-level,1,0.03,Data Engineering
+OpenCV,Mid-level,1,0.03,ML/DL Frameworks
+React Native,Mid-level,1,0.03,Mobile
+Dash,Mid-level,1,0.03,Visualization & BI
+Keras,Mid-level,1,0.03,ML/DL Frameworks
+Lambda,Mid-level,1,0.03,Cloud Platforms
+Matplotlib,Mid-level,1,0.03,Visualization & BI
+Seaborn,Mid-level,1,0.03,Visualization & BI
+Selenium,Mid-level,1,0.03,Testing
+Kanban,Mid-level,1,0.03,Methodologies
+Machine Learning,Senior,360,24.49,DS/ML Concepts
+LLM,Senior,121,8.23,DS/ML Concepts
+Generative AI,Senior,77,5.24,DS/ML Concepts
+Computer Vision,Senior,51,3.47,DS/ML Concepts
+Python,Senior,50,3.4,Programming Languages
+NLP,Senior,42,2.86,DS/ML Concepts
+Large Language Models,Senior,40,2.72,DS/ML Concepts
+RAG,Senior,27,1.84,DS/ML Concepts
+Agile,Senior,25,1.7,Methodologies
+Azure,Senior,23,1.56,Cloud Platforms
+Deep Learning,Senior,23,1.56,DS/ML Concepts
+AWS,Senior,21,1.43,Cloud Platforms
+iOS,Senior,16,1.09,Mobile
+Data Pipeline,Senior,14,0.95,Data Engineering
+Android,Senior,14,0.95,Mobile
+MySQL,Senior,13,0.88,Databases
+PostgreSQL,Senior,13,0.88,Databases
+Prompt Engineering,Senior,11,0.75,DS/ML Concepts
+GCP,Senior,11,0.75,Cloud Platforms
+Databricks,Senior,10,0.68,Data Engineering
+Natural Language Processing,Senior,9,0.61,DS/ML Concepts
+Java,Senior,8,0.54,Programming Languages
+Kubernetes,Senior,7,0.48,DevOps & MLOps
+CI/CD,Senior,7,0.48,DevOps & MLOps
+Cybersecurity,Senior,7,0.48,Security
+Snowflake,Senior,7,0.48,Data Engineering
+PyTorch,Senior,6,0.41,ML/DL Frameworks
+Gradient Boosting,Senior,5,0.34,DS/ML Concepts
+C++,Senior,5,0.34,Programming Languages
+Model Deployment,Senior,5,0.34,DS/ML Concepts
+Slack API,Senior,5,0.34,Misc Tools
+Docker,Senior,5,0.34,DevOps & MLOps
+Oracle DB,Senior,5,0.34,Databases
+Linux,Senior,5,0.34,DevOps & MLOps
+Google Cloud,Senior,4,0.27,Cloud Platforms
+Recommendation Systems,Senior,4,0.27,DS/ML Concepts
+Express.js,Senior,3,0.2,Web & API
+ETL,Senior,3,0.2,Data Engineering
+TensorFlow,Senior,3,0.2,ML/DL Frameworks
+scikit-learn,Senior,3,0.2,ML/DL Frameworks
+Apache Spark,Senior,3,0.2,Data Engineering
+Salesforce,Senior,3,0.2,Misc Tools
+React,Senior,3,0.2,Web & API
+R,Senior,2,0.14,Programming Languages
+SageMaker,Senior,2,0.14,Cloud Platforms
+Node.js,Senior,2,0.14,Web & API
+Classification,Senior,2,0.14,DS/ML Concepts
+Neural Networks,Senior,2,0.14,DS/ML Concepts
+SAP,Senior,2,0.14,Misc Tools
+SQL,Senior,2,0.14,Programming Languages
+JavaScript,Senior,2,0.14,Programming Languages
+TypeScript,Senior,2,0.14,Programming Languages
+Data Warehousing,Senior,2,0.14,Data Engineering
+MongoDB,Senior,2,0.14,Databases
+Scrum,Senior,2,0.14,Methodologies
+Airflow,Senior,2,0.14,Data Engineering
+Apache Beam,Senior,2,0.14,Data Engineering
+JAX,Senior,1,0.07,ML/DL Frameworks
+Keras,Senior,1,0.07,ML/DL Frameworks
+EC2,Senior,1,0.07,Cloud Platforms
+Lambda,Senior,1,0.07,Cloud Platforms
+S3,Senior,1,0.07,Cloud Platforms
+GitHub,Senior,1,0.07,DevOps & MLOps
+Hugging Face,Senior,1,0.07,ML/DL Frameworks
+Ansible,Senior,1,0.07,DevOps & MLOps
+Feature Engineering,Senior,1,0.07,DS/ML Concepts
+FastAPI,Senior,1,0.07,Web & API
+Flask,Senior,1,0.07,Web & API
+Ray,Senior,1,0.07,ML/DL Frameworks
+Grafana,Senior,1,0.07,Visualization & BI
+Scala,Senior,1,0.07,Programming Languages
+Reinforcement Learning,Senior,1,0.07,DS/ML Concepts
+Time Series,Senior,1,0.07,DS/ML Concepts
+Statistical Analysis,Senior,1,0.07,DS/ML Concepts
+Looker,Senior,1,0.07,Visualization & BI
+SOC 2,Senior,1,0.07,Security
+Data Modeling,Senior,1,0.07,Data Engineering
+dbt,Senior,1,0.07,Data Engineering
+C#,Senior,1,0.07,Programming Languages
+Excel,Senior,1,0.07,Misc Tools
+Notebooks,Senior,1,0.07,Misc Tools
+Qlik,Senior,1,0.07,Visualization & BI
+Tableau,Senior,1,0.07,Visualization & BI
+Go,Senior,1,0.07,Programming Languages
+Rust,Senior,1,0.07,Programming Languages

@@ -1,0 +1,95 @@
+{
+  "rows": 5773,
+  "columns": 14,
+  "column_names": [
+    "title",
+    "company",
+    "country",
+    "city",
+    "salary_min",
+    "salary_max",
+    "currency",
+    "remote_type",
+    "formatted_experience_level",
+    "required_skills",
+    "posted_date",
+    "source",
+    "description",
+    "location"
+  ],
+  "dtypes": {
+    "title": "str",
+    "company": "str",
+    "country": "str",
+    "city": "str",
+    "salary_min": "float64",
+    "salary_max": "float64",
+    "currency": "str",
+    "remote_type": "str",
+    "formatted_experience_level": "str",
+    "required_skills": "str",
+    "posted_date": "str",
+    "source": "str",
+    "description": "str",
+    "location": "str"
+  },
+  "null_summary": {
+    "title": {
+      "null_count": 0,
+      "null_pct": 0.0
+    },
+    "company": {
+      "null_count": 5,
+      "null_pct": 0.09
+    },
+    "country": {
+      "null_count": 0,
+      "null_pct": 0.0
+    },
+    "city": {
+      "null_count": 0,
+      "null_pct": 0.0
+    },
+    "salary_min": {
+      "null_count": 2430,
+      "null_pct": 42.09
+    },
+    "salary_max": {
+      "null_count": 2415,
+      "null_pct": 41.83
+    },
+    "currency": {
+      "null_count": 0,
+      "null_pct": 0.0
+    },
+    "remote_type": {
+      "null_count": 0,
+      "null_pct": 0.0
+    },
+    "formatted_experience_level": {
+      "null_count": 0,
+      "null_pct": 0.0
+    },
+    "required_skills": {
+      "null_count": 4689,
+      "null_pct": 81.22
+    },
+    "posted_date": {
+      "null_count": 123,
+      "null_pct": 2.13
+    },
+    "source": {
+      "null_count": 0,
+      "null_pct": 0.0
+    },
+    "description": {
+      "null_count": 0,
+      "null_pct": 0.0
+    },
+    "location": {
+      "null_count": 0,
+      "null_pct": 0.0
+    }
+  },
+  "memory_mb": 4.49
+}

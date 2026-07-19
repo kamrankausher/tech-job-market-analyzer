@@ -1,0 +1,105 @@
+{
+  "model_type": "LogisticRegression",
+  "target_variable": "formatted_experience_level",
+  "class_names": [
+    "Junior",
+    "Lead",
+    "Management",
+    "Mid-level",
+    "Senior"
+  ],
+  "dataset_size": {
+    "total_labeled": 5773,
+    "train_size": 4618,
+    "test_size": 1155,
+    "n_features": 5136
+  },
+  "cross_validation": {
+    "n_folds": 5,
+    "mean_accuracy": 0.7287,
+    "std_accuracy": 0.0107,
+    "fold_scores": [
+      0.7089,
+      0.7316,
+      0.7294,
+      0.7411,
+      0.7324
+    ]
+  },
+  "test_metrics": {
+    "accuracy": 0.7558,
+    "precision_macro": 0.6562,
+    "recall_macro": 0.7402,
+    "f1_macro": 0.68,
+    "roc_auc_macro": 0.9187
+  },
+  "per_class_report": {
+    "Junior": {
+      "precision": 0.82,
+      "recall": 0.8039,
+      "f1-score": 0.8119,
+      "support": 51
+    },
+    "Lead": {
+      "precision": 0.5855,
+      "recall": 0.7295,
+      "f1-score": 0.6496,
+      "support": 122
+    },
+    "Management": {
+      "precision": 0.2771,
+      "recall": 0.6571,
+      "f1-score": 0.3898,
+      "support": 35
+    },
+    "Mid-level": {
+      "precision": 0.8996,
+      "recall": 0.7688,
+      "f1-score": 0.8291,
+      "support": 653
+    },
+    "Senior": {
+      "precision": 0.6987,
+      "recall": 0.7415,
+      "f1-score": 0.7195,
+      "support": 294
+    }
+  },
+  "confusion_matrix": [
+    [
+      41,
+      3,
+      4,
+      2,
+      1
+    ],
+    [
+      2,
+      89,
+      6,
+      12,
+      13
+    ],
+    [
+      0,
+      2,
+      23,
+      7,
+      3
+    ],
+    [
+      5,
+      33,
+      36,
+      502,
+      77
+    ],
+    [
+      2,
+      25,
+      14,
+      35,
+      218
+    ]
+  ]
+}

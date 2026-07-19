@@ -1,0 +1,31 @@
+feature,importance_mean,importance_std
+tfidf_senior,0.081645,0.005476
+tfidf_lead,0.041905,0.002424
+tfidf_principal,0.007619,0.001149
+tfidf_staff,0.00684,0.002338
+tfidf_die,0.006234,0.00149
+tfidf_junior,0.005541,0.001039
+tfidf_engineering,0.005368,0.002533
+tfidf_wir,0.004762,0.001043
+tfidf_sichere,0.004502,0.000346
+tfidf_sichere und,0.004502,0.000346
+tfidf_deutschland,0.004502,0.000519
+tfidf_sorge,0.004416,0.00026
+tfidf_zukunftsfähigkeit,0.004416,0.00026
+tfidf_uns für,0.004416,0.00026
+tfidf_verant,0.004416,0.00026
+tfidf_digitale zukunftsfähigkeit,0.004416,0.00026
+tfidf_die digitale,0.004416,0.00026
+tfidf_betreiben,0.004416,0.00026
+tfidf_sorge gemeinsam,0.004416,0.00026
+tfidf_suchen verant,0.004416,0.00026
+tfidf_mit uns,0.004329,0.000387
+tfidf_der größten,0.004329,0.000387
+tfidf_größten,0.004329,0.000387
+tfidf_senior lead,0.004329,0.000548
+tfidf_den,0.004329,0.000866
+tfidf_für,0.004242,0.000817
+tfidf_innen,0.004069,0.000554
+tfidf_zur,0.003896,0.000433
+tfidf_000,0.00381,0.001039
+tfidf_manager,0.003723,0.001165

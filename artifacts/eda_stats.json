@@ -1,0 +1,44 @@
+{
+  "total_postings": 5773,
+  "unique_titles": 2883,
+  "unique_companies": 0,
+  "unique_locations": 1179,
+  "date_range": {},
+  "experience_level_distribution": {
+    "Mid-level": 3264,
+    "Senior": 1470,
+    "Lead": 609,
+    "Junior": 253,
+    "Management": 177
+  },
+  "work_type_distribution": {},
+  "description_stats": {
+    "non_null_count": 5773,
+    "avg_length": 573.0,
+    "median_length": 500.0,
+    "min_length": 61,
+    "max_length": 7938
+  },
+  "missing_value_summary": {
+    "company": {
+      "count": 5,
+      "percentage": 0.09
+    },
+    "salary_min": {
+      "count": 2430,
+      "percentage": 42.09
+    },
+    "salary_max": {
+      "count": 2415,
+      "percentage": 41.83
+    },
+    "required_skills": {
+      "count": 4689,
+      "percentage": 81.22
+    },
+    "posted_date": {
+      "count": 123,
+      "percentage": 2.13
+    }
+  }
+}
