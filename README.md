@@ -11,12 +11,12 @@
 
 The **Tech Job Market Skill-Gap Analyzer** is an end-to-end data pipeline and interactive web application designed to help tech professionals and students understand exactly what skills are currently in demand. 
 
-Built using a dataset of **5,700+ Global Tech & AI Job Postings from 2026**, this tool extracts required skills using Natural Language Processing (NLP), analyzes market trends, and uses a Machine Learning classification model to predict the expected seniority level (Junior, Mid-level, Senior, Lead, Management) of a given job description or resume.
+Built using a dataset of **5,700+ Global Tech & AI Job Postings from 2021-2026**, this tool extracts required skills using Natural Language Processing (NLP), analyzes market trends, and uses a Machine Learning classification model to predict the expected seniority level (Junior, Mid-level, Senior, Lead, Management) of a given job description or resume.
 
 ## ✨ Features & UI Elements
 
 - **Premium Interface:** The dashboard features a stunning, animated glassmorphism UI with gradient titles, hover micro-interactions, and 3D-styled icons.
-- **NLP Skill Extraction:** Utilizes a custom taxonomy and Regex pattern matching to extract over 200+ modern technologies across domains like Cloud, ML/AI, Databases, and Frontend/Backend development.
+- 🧠 **NLP Skill Extraction**: Custom Regex-based pipeline extracting exactly **185** verified tech skills from noisy text across domains like Cloud, ML/AI, Databases, and Frontend/Backend development.
 - **Interactive Market Dashboard:** A beautiful Plotly and Streamlit-powered dashboard showcasing the top in-demand skills overall, segmented by experience level, and broken down by specific roles.
 - **Personalized Skill Gap Analyzer:** Users can paste their resume or a list of their skills to get a tailored gap analysis against real market demand, revealing exactly which high-value skills they are missing.
 - **ML Experience Level Predictor:** A Multinomial Logistic Regression classifier trained on TF-IDF text features and binary skill matrices to predict job seniority with high accuracy.
@@ -32,7 +32,7 @@ Built using a dataset of **5,700+ Global Tech & AI Job Postings from 2026**, thi
 ├── data/                       # Raw datasets (Not included in repo to save space)
 ├── src/                        # Core Python modules
 │   ├── data_loader.py          # Data ingestion and cleaning
-│   ├── skill_taxonomy.py       # 200+ tech skills definitions
+│   ├── skill_taxonomy.py       # 185 tech skills definitions
 │   ├── skill_extractor.py      # NLP extraction logic
 │   ├── eda.py                  # Exploratory data analysis
 │   ├── model_trainer.py        # ML training and evaluation
@@ -52,8 +52,12 @@ Built using a dataset of **5,700+ Global Tech & AI Job Postings from 2026**, thi
    cd "Tech Job Market Skill-Gap Analyzer"
    ```
 
-2. **Download the Data:**
-   - Place your dataset (e.g., `ai_jobs_global.csv`) inside the `data/` folder.
+2. **Download the Data (Automated):**
+   Run the automated Kaggle downloader script to fetch the exact verified dataset ("AI Job Market Insights" by Alexander Kapturov).
+```bash
+python scripts/download_data.py
+```
+*(Alternatively, place `ai_jobs_global.csv` directly inside `data/` if downloaded manually).*
 
 3. **Set up the virtual environment:**
    ```bash

@@ -1,5 +1,5 @@
 {
-  "rows": 5773,
+  "rows": 5257,
   "columns": 14,
   "column_names": [
     "title",
@@ -40,7 +40,7 @@
     },
     "company": {
       "null_count": 5,
-      "null_pct": 0.09
+      "null_pct": 0.1
     },
     "country": {
       "null_count": 0,
@@ -51,12 +51,12 @@
       "null_pct": 0.0
     },
     "salary_min": {
-      "null_count": 2430,
-      "null_pct": 42.09
+      "null_count": 1955,
+      "null_pct": 37.19
     },
     "salary_max": {
-      "null_count": 2415,
-      "null_pct": 41.83
+      "null_count": 1940,
+      "null_pct": 36.9
     },
     "currency": {
       "null_count": 0,
@@ -71,12 +71,12 @@
       "null_pct": 0.0
     },
     "required_skills": {
-      "null_count": 4689,
-      "null_pct": 81.22
+      "null_count": 4296,
+      "null_pct": 81.72
     },
     "posted_date": {
       "null_count": 123,
-      "null_pct": 2.13
+      "null_pct": 2.34
     },
     "source": {
       "null_count": 0,
@@ -91,5 +91,5 @@
       "null_pct": 0.0
     }
   },
-  "memory_mb": 4.49
+  "memory_mb": 4.17
 }

@@ -16,7 +16,7 @@ PROJECT_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
 import pandas as pd
-from src.data_loader import load_postings, get_dataset_info, filter_tech_roles, get_postings_with_experience_level
+from src.data_loader import load_postings, get_dataset_info, filter_tech_roles, get_postings_with_experience_level, filter_english_postings
 from src.skill_extractor import extract_skills_batch, compute_skill_frequencies, compute_skill_frequencies_by_level, compute_skill_frequencies_by_role
 from src.eda import compute_summary_stats
 from src.model_trainer import train_and_evaluate
@@ -41,6 +41,13 @@ def main():
     info = get_dataset_info(df)
     print(f"Loaded {info['rows']:,} rows x {info['columns']} columns")
     print(f"Memory usage: {info['memory_mb']:.1f} MB")
+    
+    # NEW: Filter to English only to prevent language leakage in TF-IDF
+    df, lang_counts = filter_english_postings(df)
+    print(f"Language Filtering: Kept {lang_counts['english']} English postings. Dropped {lang_counts['non_english']} non-English.")
+    
+    # Update info after filtering
+    info = get_dataset_info(df)
     
     # Save dataset info
     with open(ARTIFACTS_DIR / "dataset_info.json", 'w') as f:

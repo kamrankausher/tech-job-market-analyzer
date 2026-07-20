@@ -1,19 +1,19 @@
 skill,role,count,percentage,category
-Generative AI,AI Engineer,51,18.89,DS/ML Concepts
-Oracle DB,AI Engineer,48,17.78,Databases
-CSS,AI Engineer,46,17.04,Web & API
-Python,AI Engineer,44,16.3,Programming Languages
-Data Pipeline,AI Engineer,35,12.96,Data Engineering
-SQL,AI Engineer,34,12.59,Programming Languages
-Machine Learning,AI Engineer,25,9.26,DS/ML Concepts
-LLM,AI Engineer,25,9.26,DS/ML Concepts
-RAG,AI Engineer,8,2.96,DS/ML Concepts
-NLP,AI Engineer,5,1.85,DS/ML Concepts
-Large Language Models,AI Engineer,4,1.48,DS/ML Concepts
-Prompt Engineering,AI Engineer,3,1.11,DS/ML Concepts
-AWS,AI Engineer,3,1.11,Cloud Platforms
-Deep Learning,AI Engineer,3,1.11,DS/ML Concepts
-Azure,AI Engineer,3,1.11,Cloud Platforms
+Generative AI,AI Engineer,51,18.96,DS/ML Concepts
+Oracle DB,AI Engineer,48,17.84,Databases
+CSS,AI Engineer,46,17.1,Web & API
+Python,AI Engineer,44,16.36,Programming Languages
+Data Pipeline,AI Engineer,35,13.01,Data Engineering
+SQL,AI Engineer,34,12.64,Programming Languages
+Machine Learning,AI Engineer,25,9.29,DS/ML Concepts
+LLM,AI Engineer,25,9.29,DS/ML Concepts
+RAG,AI Engineer,8,2.97,DS/ML Concepts
+NLP,AI Engineer,5,1.86,DS/ML Concepts
+Large Language Models,AI Engineer,4,1.49,DS/ML Concepts
+Prompt Engineering,AI Engineer,3,1.12,DS/ML Concepts
+AWS,AI Engineer,3,1.12,Cloud Platforms
+Deep Learning,AI Engineer,3,1.12,DS/ML Concepts
+Azure,AI Engineer,3,1.12,Cloud Platforms
 MLflow,AI Engineer,2,0.74,ML/DL Frameworks
 Classification,AI Engineer,2,0.74,DS/ML Concepts
 Natural Language Processing,AI Engineer,2,0.74,DS/ML Concepts
@@ -54,37 +54,37 @@ Computer Vision,Computer Vision Engineer,35,85.37,DS/ML Concepts
 Deep Learning,Computer Vision Engineer,25,60.98,DS/ML Concepts
 Machine Learning,Computer Vision Engineer,5,12.2,DS/ML Concepts
 Generative AI,Computer Vision Engineer,1,2.44,DS/ML Concepts
-Machine Learning,Data Scientist,52,18.51,DS/ML Concepts
-Python,Data Scientist,18,6.41,Programming Languages
-SQL,Data Scientist,12,4.27,Programming Languages
-LLM,Data Scientist,8,2.85,DS/ML Concepts
-NLP,Data Scientist,7,2.49,DS/ML Concepts
-Power BI,Data Scientist,6,2.14,Visualization & BI
-Excel,Data Scientist,6,2.14,Misc Tools
-R,Data Scientist,6,2.14,Programming Languages
-Databricks,Data Scientist,5,1.78,Data Engineering
-AWS,Data Scientist,5,1.78,Cloud Platforms
-Statistical Analysis,Data Scientist,4,1.42,DS/ML Concepts
-Azure,Data Scientist,4,1.42,Cloud Platforms
-MATLAB,Data Scientist,3,1.07,Programming Languages
-Agile,Data Scientist,3,1.07,Methodologies
-Generative AI,Data Scientist,3,1.07,DS/ML Concepts
-Computer Vision,Data Scientist,3,1.07,DS/ML Concepts
-MongoDB,Data Scientist,3,1.07,Databases
-MySQL,Data Scientist,3,1.07,Databases
-PostgreSQL,Data Scientist,3,1.07,Databases
-Data Modeling,Data Scientist,2,0.71,Data Engineering
-Large Language Models,Data Scientist,2,0.71,DS/ML Concepts
-Cybersecurity,Data Scientist,2,0.71,Security
-React,Data Scientist,2,0.71,Web & API
-GCP,Data Scientist,2,0.71,Cloud Platforms
-Deep Learning,Data Scientist,2,0.71,DS/ML Concepts
-Natural Language Processing,Data Scientist,2,0.71,DS/ML Concepts
-Tableau,Data Scientist,2,0.71,Visualization & BI
+Machine Learning,Data Scientist,52,18.64,DS/ML Concepts
+Python,Data Scientist,18,6.45,Programming Languages
+SQL,Data Scientist,12,4.3,Programming Languages
+LLM,Data Scientist,7,2.51,DS/ML Concepts
+NLP,Data Scientist,7,2.51,DS/ML Concepts
+Power BI,Data Scientist,6,2.15,Visualization & BI
+Excel,Data Scientist,6,2.15,Misc Tools
+R,Data Scientist,6,2.15,Programming Languages
+Databricks,Data Scientist,5,1.79,Data Engineering
+AWS,Data Scientist,5,1.79,Cloud Platforms
+Statistical Analysis,Data Scientist,4,1.43,DS/ML Concepts
+Azure,Data Scientist,4,1.43,Cloud Platforms
+MATLAB,Data Scientist,3,1.08,Programming Languages
+Agile,Data Scientist,3,1.08,Methodologies
+Generative AI,Data Scientist,3,1.08,DS/ML Concepts
+Computer Vision,Data Scientist,3,1.08,DS/ML Concepts
+MongoDB,Data Scientist,3,1.08,Databases
+MySQL,Data Scientist,3,1.08,Databases
+PostgreSQL,Data Scientist,3,1.08,Databases
+Data Modeling,Data Scientist,2,0.72,Data Engineering
+Large Language Models,Data Scientist,2,0.72,DS/ML Concepts
+Cybersecurity,Data Scientist,2,0.72,Security
+React,Data Scientist,2,0.72,Web & API
+Deep Learning,Data Scientist,2,0.72,DS/ML Concepts
+Natural Language Processing,Data Scientist,2,0.72,DS/ML Concepts
+Tableau,Data Scientist,2,0.72,Visualization & BI
 A/B Testing,Data Scientist,1,0.36,DS/ML Concepts
 Apache Spark,Data Scientist,1,0.36,Data Engineering
 Feature Engineering,Data Scientist,1,0.36,DS/ML Concepts
 Salesforce,Data Scientist,1,0.36,Misc Tools
+GCP,Data Scientist,1,0.36,Cloud Platforms
 Node.js,Data Scientist,1,0.36,Web & API
 Jupyter,Data Scientist,1,0.36,Misc Tools
 Notebooks,Data Scientist,1,0.36,Misc Tools
@@ -113,35 +113,35 @@ Natural Language Processing,Data Scientist with Security Clearance,1,3.33,DS/ML 
 Python,Data Scientist with Security Clearance,1,3.33,Programming Languages
 Excel,Generative AI Automation Engineer - Remote Job,98,100.0,Misc Tools
 Generative AI,Generative AI Automation Engineer - Remote Job,98,100.0,DS/ML Concepts
-Machine Learning,Machine Learning Engineer,72,65.45,DS/ML Concepts
-Computer Vision,Machine Learning Engineer,5,4.55,DS/ML Concepts
-LLM,Machine Learning Engineer,5,4.55,DS/ML Concepts
-Data Pipeline,Machine Learning Engineer,4,3.64,Data Engineering
-Azure,Machine Learning Engineer,3,2.73,Cloud Platforms
-Databricks,Machine Learning Engineer,3,2.73,Data Engineering
-Large Language Models,Machine Learning Engineer,2,1.82,DS/ML Concepts
-Model Deployment,Machine Learning Engineer,2,1.82,DS/ML Concepts
-Feature Engineering,Machine Learning Engineer,2,1.82,DS/ML Concepts
-Recommendation Systems,Machine Learning Engineer,2,1.82,DS/ML Concepts
-Redis,Machine Learning Engineer,2,1.82,Databases
-Deep Learning,Machine Learning Engineer,2,1.82,DS/ML Concepts
-TensorFlow,Machine Learning Engineer,1,0.91,ML/DL Frameworks
-JavaScript,Machine Learning Engineer,1,0.91,Programming Languages
-Python,Machine Learning Engineer,1,0.91,Programming Languages
-ETL,Machine Learning Engineer,1,0.91,Data Engineering
-Delta Lake,Machine Learning Engineer,1,0.91,Big Data
-Docker,Machine Learning Engineer,1,0.91,DevOps & MLOps
-Snowflake,Machine Learning Engineer,1,0.91,Data Engineering
-Apache Flink,Machine Learning Engineer,1,0.91,Data Engineering
-Kafka,Machine Learning Engineer,1,0.91,Data Engineering
-PyTorch,Machine Learning Engineer,1,0.91,ML/DL Frameworks
-S3,Machine Learning Engineer,1,0.91,Cloud Platforms
-SageMaker,Machine Learning Engineer,1,0.91,Cloud Platforms
-NLP,Machine Learning Engineer,1,0.91,DS/ML Concepts
-Apache Spark,Machine Learning Engineer,1,0.91,Data Engineering
-Agile,Machine Learning Engineer,1,0.91,Methodologies
-Neural Networks,Machine Learning Engineer,1,0.91,DS/ML Concepts
-Generative AI,Machine Learning Engineer,1,0.91,DS/ML Concepts
+Machine Learning,Machine Learning Engineer,71,65.14,DS/ML Concepts
+Computer Vision,Machine Learning Engineer,5,4.59,DS/ML Concepts
+LLM,Machine Learning Engineer,5,4.59,DS/ML Concepts
+Data Pipeline,Machine Learning Engineer,4,3.67,Data Engineering
+Azure,Machine Learning Engineer,3,2.75,Cloud Platforms
+Databricks,Machine Learning Engineer,3,2.75,Data Engineering
+Large Language Models,Machine Learning Engineer,2,1.83,DS/ML Concepts
+Model Deployment,Machine Learning Engineer,2,1.83,DS/ML Concepts
+Feature Engineering,Machine Learning Engineer,2,1.83,DS/ML Concepts
+Recommendation Systems,Machine Learning Engineer,2,1.83,DS/ML Concepts
+Redis,Machine Learning Engineer,2,1.83,Databases
+Deep Learning,Machine Learning Engineer,2,1.83,DS/ML Concepts
+TensorFlow,Machine Learning Engineer,1,0.92,ML/DL Frameworks
+JavaScript,Machine Learning Engineer,1,0.92,Programming Languages
+Python,Machine Learning Engineer,1,0.92,Programming Languages
+ETL,Machine Learning Engineer,1,0.92,Data Engineering
+Delta Lake,Machine Learning Engineer,1,0.92,Big Data
+Docker,Machine Learning Engineer,1,0.92,DevOps & MLOps
+Snowflake,Machine Learning Engineer,1,0.92,Data Engineering
+Apache Flink,Machine Learning Engineer,1,0.92,Data Engineering
+Kafka,Machine Learning Engineer,1,0.92,Data Engineering
+PyTorch,Machine Learning Engineer,1,0.92,ML/DL Frameworks
+S3,Machine Learning Engineer,1,0.92,Cloud Platforms
+SageMaker,Machine Learning Engineer,1,0.92,Cloud Platforms
+NLP,Machine Learning Engineer,1,0.92,DS/ML Concepts
+Apache Spark,Machine Learning Engineer,1,0.92,Data Engineering
+Agile,Machine Learning Engineer,1,0.92,Methodologies
+Neural Networks,Machine Learning Engineer,1,0.92,DS/ML Concepts
+Generative AI,Machine Learning Engineer,1,0.92,DS/ML Concepts
 Machine Learning,Machine Learning Operations (MLOps) Intern,48,100.0,DS/ML Concepts
 Machine Learning,Senior AI Engineer,8,19.05,DS/ML Concepts
 LLM,Senior AI Engineer,8,19.05,DS/ML Concepts

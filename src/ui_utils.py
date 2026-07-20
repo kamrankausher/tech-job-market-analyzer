@@ -205,9 +205,10 @@ def apply_custom_css():
     st.sidebar.markdown(
         """
         <p style='color: #94a3b8; font-size: 0.95rem;'>
-        <b>Powered by global market data</b> from 5,700+ Tech Job Postings (2026).
-        </p>
-        <a href="https://www.kaggle.com" target="_blank" class="kaggle-badge">
+        <b>Powered by global market data</b> from 5,700+ Tech Job Postings (2021-2026).
+    </div>
+    <div style="margin-top: 10px;">
+        <a href="https://www.kaggle.com/datasets/kapturovalexander/ai-job-market-insights" target="_blank" class="kaggle-badge">
             View Kaggle Dataset
         </a>
         <br><br>

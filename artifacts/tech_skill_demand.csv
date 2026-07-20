@@ -1,135 +1,127 @@
 skill,category,count,percentage,rank
-Machine Learning,DS/ML Concepts,1066,19.78,1
-LLM,DS/ML Concepts,423,7.85,2
-Generative AI,DS/ML Concepts,389,7.22,3
-Python,Programming Languages,236,4.38,4
-Large Language Models,DS/ML Concepts,178,3.3,5
-Computer Vision,DS/ML Concepts,168,3.12,6
-NLP,DS/ML Concepts,148,2.75,7
-Azure,Cloud Platforms,127,2.36,8
-Excel,Misc Tools,109,2.02,9
-Prompt Engineering,DS/ML Concepts,104,1.93,10
-Data Pipeline,Data Engineering,89,1.65,11
-Deep Learning,DS/ML Concepts,83,1.54,12
-RAG,DS/ML Concepts,81,1.5,13
-Agile,Methodologies,74,1.37,14
-AWS,Cloud Platforms,69,1.28,15
-Natural Language Processing,DS/ML Concepts,67,1.24,16
-SQL,Programming Languages,66,1.22,17
-Recommendation Systems,DS/ML Concepts,60,1.11,18
-Oracle DB,Databases,57,1.06,19
-CSS,Web & API,47,0.87,20
-iOS,Mobile,45,0.83,21
-Android,Mobile,41,0.76,22
-GCP,Cloud Platforms,38,0.71,23
-Classification,DS/ML Concepts,37,0.69,24
-Databricks,Data Engineering,36,0.67,25
-CI/CD,DevOps & MLOps,35,0.65,26
-Cybersecurity,Security,29,0.54,27
-Java,Programming Languages,26,0.48,28
-Node.js,Web & API,23,0.43,29
-PyTorch,ML/DL Frameworks,21,0.39,30
-PostgreSQL,Databases,20,0.37,31
-Google Cloud,Cloud Platforms,19,0.35,32
-Model Deployment,DS/ML Concepts,19,0.35,33
-Snowflake,Data Engineering,17,0.32,34
-Docker,DevOps & MLOps,17,0.32,35
-Apache Spark,Data Engineering,16,0.3,36
-MySQL,Databases,16,0.3,37
-Express.js,Web & API,16,0.3,38
-Linux,DevOps & MLOps,15,0.28,39
-JavaScript,Programming Languages,15,0.28,40
-React,Web & API,15,0.28,41
-Reinforcement Learning,DS/ML Concepts,14,0.26,42
-Kubernetes,DevOps & MLOps,14,0.26,43
-ETL,Data Engineering,13,0.24,44
-TensorFlow,ML/DL Frameworks,13,0.24,45
-Salesforce,Misc Tools,13,0.24,46
-MongoDB,Databases,12,0.22,47
-Data Modeling,Data Engineering,12,0.22,48
-Statistical Analysis,DS/ML Concepts,11,0.2,49
-GitHub,DevOps & MLOps,11,0.2,50
-Git,DevOps & MLOps,11,0.2,51
-C++,Programming Languages,11,0.2,52
-R,Programming Languages,10,0.19,53
-TypeScript,Programming Languages,10,0.19,54
-SAP,Misc Tools,10,0.19,55
-Power BI,Visualization & BI,9,0.17,56
-Slack API,Misc Tools,9,0.17,57
-Feature Engineering,DS/ML Concepts,8,0.15,58
-Data Warehousing,Data Engineering,8,0.15,59
-C#,Programming Languages,7,0.13,60
-Tableau,Visualization & BI,7,0.13,61
-Neural Networks,DS/ML Concepts,7,0.13,62
-Hugging Face,ML/DL Frameworks,7,0.13,63
-SageMaker,Cloud Platforms,7,0.13,64
-scikit-learn,ML/DL Frameworks,7,0.13,65
-Scrum,Methodologies,6,0.11,66
-FastAPI,Web & API,6,0.11,67
-Regression,DS/ML Concepts,6,0.11,68
-MLflow,ML/DL Frameworks,5,0.09,69
-GitLab,DevOps & MLOps,5,0.09,70
-Scala,Programming Languages,5,0.09,71
-Gradient Boosting,DS/ML Concepts,5,0.09,72
-Vue.js,Web & API,5,0.09,73
-Grafana,Visualization & BI,4,0.07,74
-NumPy,Data Engineering,4,0.07,75
-Kotlin,Programming Languages,4,0.07,76
-Pandas,Data Engineering,4,0.07,77
-MATLAB,Programming Languages,3,0.06,78
-S3,Cloud Platforms,3,0.06,79
-Hadoop,Data Engineering,3,0.06,80
-Shell Scripting,Programming Languages,3,0.06,81
-Jenkins,DevOps & MLOps,3,0.06,82
-Airflow,Data Engineering,3,0.06,83
-Ansible,DevOps & MLOps,3,0.06,84
-Time Series,DS/ML Concepts,3,0.06,85
-Notebooks,Misc Tools,3,0.06,86
-Data Lake,Big Data,3,0.06,87
-JSON,Data Formats,3,0.06,88
-Angular,Web & API,3,0.06,89
-Spring Boot,Web & API,2,0.04,90
-dbt,Data Engineering,2,0.04,91
-Lambda,Cloud Platforms,2,0.04,92
-A/B Testing,DS/ML Concepts,2,0.04,93
-Keras,ML/DL Frameworks,2,0.04,94
-Apache Beam,Data Engineering,2,0.04,95
-XML,Data Formats,2,0.04,96
-SQL Server,Databases,2,0.04,97
-Redis,Databases,2,0.04,98
-XGBoost,ML/DL Frameworks,2,0.04,99
-Flask,Web & API,2,0.04,100
-Amazon Web Services,Cloud Platforms,2,0.04,101
-Delta Lake,Big Data,2,0.04,102
-PHP,Programming Languages,2,0.04,103
-Terraform,Cloud Platforms,2,0.04,104
-Kafka,Data Engineering,2,0.04,105
-Kubeflow,ML/DL Frameworks,2,0.04,106
-Jupyter,Misc Tools,2,0.04,107
-JAX,ML/DL Frameworks,1,0.02,108
-Unit Testing,Testing,1,0.02,109
-Jira,Methodologies,1,0.02,110
-EC2,Cloud Platforms,1,0.02,111
-PySpark,Data Engineering,1,0.02,112
-Ray,ML/DL Frameworks,1,0.02,113
-BigQuery,Cloud Platforms,1,0.02,114
-Apache Flink,Data Engineering,1,0.02,115
-ArgoCD,DevOps & MLOps,1,0.02,116
-REST API,Web & API,1,0.02,117
-Looker,Visualization & BI,1,0.02,118
-Qlik,Visualization & BI,1,0.02,119
-Dash,Visualization & BI,1,0.02,120
-React Native,Mobile,1,0.02,121
-OpenCV,ML/DL Frameworks,1,0.02,122
-SOC 2,Security,1,0.02,123
-Elasticsearch,Databases,1,0.02,124
-Dagster,Data Engineering,1,0.02,125
-Go,Programming Languages,1,0.02,126
-Rust,Programming Languages,1,0.02,127
-Avro,Data Formats,1,0.02,128
-Prometheus,DevOps & MLOps,1,0.02,129
-Protobuf,Data Formats,1,0.02,130
-Matplotlib,Visualization & BI,1,0.02,131
-Seaborn,Visualization & BI,1,0.02,132
-Selenium,Testing,1,0.02,133
-Kanban,Methodologies,1,0.02,134
+Machine Learning,DS/ML Concepts,1022,20.68,1
+LLM,DS/ML Concepts,407,8.24,2
+Generative AI,DS/ML Concepts,385,7.79,3
+Python,Programming Languages,201,4.07,4
+Large Language Models,DS/ML Concepts,171,3.46,5
+Computer Vision,DS/ML Concepts,164,3.32,6
+NLP,DS/ML Concepts,142,2.87,7
+Excel,Misc Tools,109,2.21,8
+Data Pipeline,Data Engineering,89,1.8,9
+Deep Learning,DS/ML Concepts,78,1.58,10
+Agile,Methodologies,73,1.48,11
+RAG,DS/ML Concepts,71,1.44,12
+Azure,Cloud Platforms,68,1.38,13
+Natural Language Processing,DS/ML Concepts,66,1.34,14
+AWS,Cloud Platforms,65,1.32,15
+SQL,Programming Languages,65,1.32,16
+Recommendation Systems,DS/ML Concepts,59,1.19,17
+Oracle DB,Databases,57,1.15,18
+CSS,Web & API,47,0.95,19
+iOS,Mobile,45,0.91,20
+Prompt Engineering,DS/ML Concepts,42,0.85,21
+Android,Mobile,41,0.83,22
+Classification,DS/ML Concepts,37,0.75,23
+GCP,Cloud Platforms,36,0.73,24
+Databricks,Data Engineering,33,0.67,25
+Cybersecurity,Security,29,0.59,26
+CI/CD,DevOps & MLOps,28,0.57,27
+Java,Programming Languages,25,0.51,28
+Node.js,Web & API,21,0.42,29
+PostgreSQL,Databases,20,0.4,30
+PyTorch,ML/DL Frameworks,19,0.38,31
+Model Deployment,DS/ML Concepts,18,0.36,32
+Google Cloud,Cloud Platforms,18,0.36,33
+Snowflake,Data Engineering,17,0.34,34
+MySQL,Databases,16,0.32,35
+Apache Spark,Data Engineering,16,0.32,36
+Express.js,Web & API,16,0.32,37
+Docker,DevOps & MLOps,16,0.32,38
+React,Web & API,15,0.3,39
+JavaScript,Programming Languages,15,0.3,40
+Linux,DevOps & MLOps,14,0.28,41
+Reinforcement Learning,DS/ML Concepts,14,0.28,42
+ETL,Data Engineering,13,0.26,43
+Salesforce,Misc Tools,13,0.26,44
+Kubernetes,DevOps & MLOps,13,0.26,45
+Data Modeling,Data Engineering,12,0.24,46
+MongoDB,Databases,12,0.24,47
+Statistical Analysis,DS/ML Concepts,11,0.22,48
+TensorFlow,ML/DL Frameworks,11,0.22,49
+GitHub,DevOps & MLOps,11,0.22,50
+TypeScript,Programming Languages,10,0.2,51
+C++,Programming Languages,10,0.2,52
+SAP,Misc Tools,9,0.18,53
+Slack API,Misc Tools,9,0.18,54
+Power BI,Visualization & BI,9,0.18,55
+Git,DevOps & MLOps,9,0.18,56
+R,Programming Languages,8,0.16,57
+Data Warehousing,Data Engineering,8,0.16,58
+Feature Engineering,DS/ML Concepts,8,0.16,59
+Neural Networks,DS/ML Concepts,7,0.14,60
+C#,Programming Languages,7,0.14,61
+Hugging Face,ML/DL Frameworks,7,0.14,62
+FastAPI,Web & API,6,0.12,63
+Tableau,Visualization & BI,6,0.12,64
+SageMaker,Cloud Platforms,6,0.12,65
+scikit-learn,ML/DL Frameworks,6,0.12,66
+Scala,Programming Languages,5,0.1,67
+Regression,DS/ML Concepts,5,0.1,68
+Vue.js,Web & API,5,0.1,69
+Scrum,Methodologies,5,0.1,70
+MLflow,ML/DL Frameworks,5,0.1,71
+GitLab,DevOps & MLOps,5,0.1,72
+Gradient Boosting,DS/ML Concepts,5,0.1,73
+NumPy,Data Engineering,4,0.08,74
+Grafana,Visualization & BI,4,0.08,75
+Kotlin,Programming Languages,4,0.08,76
+Shell Scripting,Programming Languages,3,0.06,77
+S3,Cloud Platforms,3,0.06,78
+Airflow,Data Engineering,3,0.06,79
+Jenkins,DevOps & MLOps,3,0.06,80
+MATLAB,Programming Languages,3,0.06,81
+Ansible,DevOps & MLOps,3,0.06,82
+Time Series,DS/ML Concepts,3,0.06,83
+Angular,Web & API,3,0.06,84
+Pandas,Data Engineering,3,0.06,85
+Hadoop,Data Engineering,3,0.06,86
+JSON,Data Formats,3,0.06,87
+Amazon Web Services,Cloud Platforms,2,0.04,88
+Kafka,Data Engineering,2,0.04,89
+Kubeflow,ML/DL Frameworks,2,0.04,90
+SQL Server,Databases,2,0.04,91
+A/B Testing,DS/ML Concepts,2,0.04,92
+XML,Data Formats,2,0.04,93
+Flask,Web & API,2,0.04,94
+dbt,Data Engineering,2,0.04,95
+Apache Beam,Data Engineering,2,0.04,96
+Spring Boot,Web & API,2,0.04,97
+Notebooks,Misc Tools,2,0.04,98
+Delta Lake,Big Data,2,0.04,99
+Redis,Databases,2,0.04,100
+JAX,ML/DL Frameworks,1,0.02,101
+Keras,ML/DL Frameworks,1,0.02,102
+PySpark,Data Engineering,1,0.02,103
+Jira,Methodologies,1,0.02,104
+Unit Testing,Testing,1,0.02,105
+Jupyter,Misc Tools,1,0.02,106
+Lambda,Cloud Platforms,1,0.02,107
+BigQuery,Cloud Platforms,1,0.02,108
+Apache Flink,Data Engineering,1,0.02,109
+EC2,Cloud Platforms,1,0.02,110
+Looker,Visualization & BI,1,0.02,111
+Dagster,Data Engineering,1,0.02,112
+Elasticsearch,Databases,1,0.02,113
+Ray,ML/DL Frameworks,1,0.02,114
+ArgoCD,DevOps & MLOps,1,0.02,115
+REST API,Web & API,1,0.02,116
+SOC 2,Security,1,0.02,117
+Dash,Visualization & BI,1,0.02,118
+React Native,Mobile,1,0.02,119
+Avro,Data Formats,1,0.02,120
+Prometheus,DevOps & MLOps,1,0.02,121
+Protobuf,Data Formats,1,0.02,122
+Matplotlib,Visualization & BI,1,0.02,123
+Seaborn,Visualization & BI,1,0.02,124
+Selenium,Testing,1,0.02,125
+Kanban,Methodologies,1,0.02,126

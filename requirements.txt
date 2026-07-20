@@ -6,3 +6,5 @@ plotly==6.0.0
 streamlit==1.42.0
 joblib==1.4.2
 pytest==8.3.4
+langdetect==1.0.9
+kagglehub==0.2.7

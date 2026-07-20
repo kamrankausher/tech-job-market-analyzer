@@ -61,7 +61,7 @@ def main():
             <h3 style="margin-top: 0;">Market Dashboard</h3>
             <p style="color: #cbd5e1;">Explore real skill demand rankings, trends by role 
             and experience level, and market insights derived directly from 
-            current 2026 global tech job postings.</p>
+            current 2021-2026 global tech job postings.</p>
             </div>
             """,
             unsafe_allow_html=True,
@@ -98,7 +98,7 @@ def main():
     st.markdown(
         """
         ### Architecture & Overview
-        Welcome to the **Next-Generation Tech Intelligence Platform**. This application is powered by an advanced data pipeline analyzing **5,700+ recent global tech job postings** from 2026 to deliver real-time market insights.
+        Welcome to the **Next-Generation Tech Intelligence Platform**. This application is powered by an advanced data pipeline analyzing **5,700+ recent global tech job postings** from 2021-2026 to deliver real-time market insights.
         
         - **NLP Skill Extraction:** Job descriptions are processed using regular expressions against a custom taxonomy of over 200 modern technologies.
         - **Machine Learning:** A Logistic Regression model predicts job seniority (Junior, Mid-level, Senior, Lead, Management) using TF-IDF vectorized text and binary skill features.

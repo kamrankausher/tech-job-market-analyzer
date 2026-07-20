@@ -76,7 +76,7 @@ def load_feature_importance():
 def main():
     apply_custom_css()
     st.markdown('<div class="title-glow"> Market Dashboard</div>', unsafe_allow_html=True)
-    st.markdown("<p style='font-size: 1.1rem; color: #cbd5e1;'>Real insights derived from <b>5,700+ Global Tech Job Postings</b> (2026)</p>", unsafe_allow_html=True)
+    st.markdown("<p style='font-size: 1.1rem; color: #cbd5e1;'>Real insights derived from <b>5,700+ Global Tech Job Postings</b> (2021-2026)</p>", unsafe_allow_html=True)
     st.markdown("---")
     
     # Load all data

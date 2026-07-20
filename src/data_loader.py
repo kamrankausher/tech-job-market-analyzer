@@ -5,9 +5,11 @@ Loads the LinkedIn Job Postings dataset from local CSV files.
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
+from langdetect import detect, DetectorFactory
+from langdetect.lang_detect_exception import LangDetectException
 
-
-# Default data directory (relative to project root)
+# Seed for deterministic language detection
+DetectorFactory.seed = 0# Default data directory (relative to project root)
 DATA_DIR = Path(__file__).parent.parent / "data"
 
 
@@ -33,6 +35,7 @@ def load_postings(data_dir: Path = DATA_DIR) -> pd.DataFrame:
             df['location'] = df['country']
         else:
             df['location'] = "Unknown"
+    
         return df
 
     # Fallback to older dataset
@@ -145,3 +148,35 @@ def get_postings_with_experience_level(df: pd.DataFrame) -> pd.DataFrame:
     These are the rows usable for the ML classification task.
     """
     return df[df['formatted_experience_level'].notna()].copy()
+
+def filter_english_postings(df: pd.DataFrame) -> tuple:
+    """
+    Filters the dataset to include only English job postings.
+    Returns: (filtered_df, dict of counts)
+    """
+    def is_english(text):
+        if not isinstance(text, str) or not text.strip():
+            return 'undetermined'
+        try:
+            return detect(text)
+        except LangDetectException:
+            return 'undetermined'
+            
+    print("Detecting languages (this may take a moment)...")
+    languages = df['description'].apply(is_english)
+    
+    english_mask = languages == 'en'
+    non_english_mask = (languages != 'en') & (languages != 'undetermined')
+    undetermined_mask = languages == 'undetermined'
+    
+    counts = {
+        'total_initial': len(df),
+        'english': int(english_mask.sum()),
+        'non_english': int(non_english_mask.sum()),
+        'undetermined': int(undetermined_mask.sum()),
+    }
+    
+    filtered_df = df[english_mask].copy()
+    counts['total_final'] = len(filtered_df)
+    
+    return filtered_df, counts
