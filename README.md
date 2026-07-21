@@ -13,6 +13,9 @@ The **Tech Job Market Skill-Gap Analyzer** is an end-to-end data pipeline and in
 
 Built using a dataset of **5,700+ Global Tech & AI Job Postings from 2021-2026**, this tool extracts required skills using Natural Language Processing (NLP), analyzes market trends, and uses a Machine Learning classification model to predict the expected seniority level (Junior, Mid-level, Senior, Lead, Management) of a given job description or resume.
 
+## Live Demo
+https://tech-job-market-analyzer-d88wmbyauxbpyk3arvqke3.streamlit.app/Skill_Gap_Tool
+
 ## ✨ Features & UI Elements
 
 - **Premium Interface:** The dashboard features a stunning, animated glassmorphism UI with gradient titles, hover micro-interactions, and 3D-styled icons.
@@ -74,7 +77,7 @@ python scripts/download_data.py
 
 5. **Start the Application:**
    ```bash
-   streamlit run app.py
+   streamlit run Home.py
    ```
 
 ## 🧪 Testing
